@@ -1,4 +1,4 @@
-# simple_rust_server
+# simple-rust-server
 
 A simple HTTP/1.1 server written completely in Rust.
 
